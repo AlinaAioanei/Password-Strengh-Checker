@@ -54,7 +54,7 @@ I tested the program using passwords with different levels of complexity to conf
 A weak password fails several security requirements. The program identifies the missing requirements and provides recommendations for improving the password.
 
 <p align="center">
-  <img src="weak-password.png" width="650" alt="Weak password test">
+  <img src="01.weak-password.png" width="650" alt="Weak password test">
 </p>
 
 ### Medium Password
@@ -62,7 +62,7 @@ A weak password fails several security requirements. The program identifies the 
 A medium-strength password meets some of the security requirements but still requires improvements.
 
 <p align="center">
-  <img src="medium-password.png" width="650" alt="Medium password test">
+  <img src="02.medium-password.png" width="650" alt="Medium password test">
 </p>
 
 ### Strong Password
@@ -70,7 +70,7 @@ A medium-strength password meets some of the security requirements but still req
 A strong password meets all five security requirements and receives a security score of **5/5**.
 
 <p align="center">
-  <img src="strong-password.png" width="650" alt="Strong password test">
+  <img src="03.strong-password.png" width="650" alt="Strong password test">
 </p>
 
 ## Security Concepts Demonstrated
